@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-discussion-lists.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-discussion-lists) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-discussion-lists).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-discussion-lists/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.8.6`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-discussion-lists/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.8.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-08-30 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-discussion-lists/tree/archive/v1.0.0) |
+| `1.0.1` | 2024-11-01 | `^1.8.6` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-discussion-lists/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-discussion-lists.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-discussion-lists.json)
 
